@@ -12,7 +12,7 @@ Tried to solve it using two ways.
  
     Notebook [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Training%20New%20Data.ipynb) to train data for the first time. 
 
-    To train using an existing model, we can use [this](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Train%20with%20an%20existing%20model..ipynb) notebook.
+    To train using an existing model, we can use [this](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Train%20with%20an%20existing%20model..ipynb) notebook. This can be used to continue training using an existing model.
 
 2. Using Random Forest Classification method. Got accuracy of 71%.
 
