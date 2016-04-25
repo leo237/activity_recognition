@@ -5,6 +5,8 @@ First step is to pre-process the data. This has been described as below
 1. Aggregate all data together and shuffle them. Notebook [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Pre-Processing%20.ipynb)
 2. Divide the data for performing 4 cross-validation and testing data. Notebook [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Pre%20Process%202.ipynb)
 
+To visualize a random sample of data, I used [this](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Visualize.ipynb)
+
 Tried to solve it using two ways.
 
 
@@ -14,11 +16,14 @@ Tried to solve it using two ways.
 
     To train using an existing model, we can use [this](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Train%20with%20an%20existing%20model..ipynb) notebook. This can be used to continue training using an existing model.
 
+    Results of the Neural Network have been presented [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/NeuralNetworkResults.ipynb).
+    
 2. Using Random Forest Classification method. Got accuracy of 71%.
 
-    Notebook  [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Random%20Forest.ipynb)
+    Notebook  [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Random%20Forest.ipynb).
     
-    
+    Results of the Random Forest Classifier has been presented [here](https://github.com/leo237/activity_recognition/blob/master/Notebooks/Result-RandomForest.ipynb).
+
     
 ### Features of the Neural Network ###
 1. 3 hiddenLayers. 
